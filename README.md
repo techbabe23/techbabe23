@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-I'm Felicia, a Software Engineer and Technical Documentation Specialist. I enjoy breaking down complex technical concepts and simplifying them through Technical Writing and Speaking.   
-  
+I'm Felicia, a Software Engineer passionate about simplifying complex technical concepts through writing and Speaking.  
 
-<!--
+<!--  
 **techbabe23/techbabe23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
