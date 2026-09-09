@@ -1,6 +1,6 @@
  # Hey, I'm Felicia 👋
  
-### Security Engineer · Technical Communicator
+### Developer Educator · Technical Communicator
  
 I secure modern infrastructure through Zero Trust principles — as well as write and speak about it so others don't have to learn the hard way.
  
